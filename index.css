@@ -1,0 +1,23 @@
+body{
+    background-color:lightcyan;
+}
+
+#heading{
+    color: red;
+    font-style: italic;
+}
+
+.line{
+    text-decoration: underline;
+}
+.space{
+    color: red;
+    font-style: italic;
+}
+#style{
+    letter-spacing: 5px;
+}
+#link{
+    font-style: italic;
+    color: red;
+}
